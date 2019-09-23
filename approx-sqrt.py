@@ -16,4 +16,6 @@ def sqrt(x):
     #return z
     reutrn z
 
-    sqrt(8.0)
+    #Calculate the square root of 8 and print it 
+    print(sqrt(8.0))
+    
